@@ -1,4 +1,4 @@
-module github.com/dlsniper/depone
+module github.com/dlsniper/deptwo
 
 require (
 	github.com/sirupsen/logrus v1.0.4

@@ -1,4 +1,4 @@
-package depone
+package deptwo
 
 import (
 	"fmt"
